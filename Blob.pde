@@ -14,8 +14,6 @@ line(mouseX, mouseY,250,0);
 noStroke();
 fill(27,222,25);
 ellipse(mouseX, mouseY, 140,140);
-triangle(mouseX, mouseY+100,mouseX+200, mouseY,mouseX+200, mouseY);
-
 fill(255);
 ellipse(mouseX, mouseY, 60, 60);
 fill(0);
