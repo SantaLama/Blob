@@ -18,6 +18,5 @@ fill(255);
 ellipse(mouseX, mouseY, 60, 60);
 fill(0);
 ellipse(mouseX, mouseY,30,30);
-
-
 }
+BLOB
