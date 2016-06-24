@@ -7,7 +7,6 @@ void draw()
 {
 fill(0,50);
 rect(0,0,width,height);
-
 stroke(27,222,25);
 strokeWeight(10);
 line(mouseX, mouseY,250,0);
